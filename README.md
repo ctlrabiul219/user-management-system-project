@@ -44,6 +44,4 @@ user username:user@gmail.com
 Admin pass: user@12345
 <br>
 
- <a href="https://hasanrabiul.com/" target=”_blank” >
-   <button disabled="disabled" >Feel Free To Contact Us With Any Questions</button>
- </a>  
+ <a href="https://hasanrabiul.com/" target="_blank">Click here to open a new page with a table</a>
